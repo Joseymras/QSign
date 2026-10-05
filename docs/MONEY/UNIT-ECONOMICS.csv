@@ -1,0 +1,7 @@
+scenario,customers,avg_price,retention,formula,monthly_mrr_hypothesis
+slow,40,49,0.9,"40 * 49 * 0.9","1764"
+expected,120,59,0.93,"120 * 59 * 0.93","6596"
+strong,250,69,0.95,"250 * 69 * 0.95","16313"
+fixed_monthly_cost,950,,,,
+contribution_margin_per_customer,38,,,,
+break_even_customers,25,,,,
